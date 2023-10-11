@@ -20,7 +20,7 @@ In this **Excel Task**,we Provided with a Dataset called Financial sales record 
 - Table formatting
 
 ## Problem Solved
-![](Screenshot 2023-10-11 104333)
+![](Exceltask2.png)
 1. Total revenue and Profit generated
 
 - Total revenue generated was calculated by using the excel formular;
